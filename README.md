@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyen Dang Cuong
 
-<!--
-**cuong2103/cuong2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Backend Developer | PHP - Laravel - MySQL  
+💻 Passion for building web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- ⚙️ Backend: PHP, Laravel
+- 🗄 Database: MySQL
+- 🌐 Frontend basic: HTML, CSS, Bootstrap
+- 🔧 Tools: Git, GitHub, VSCode, Postman
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|------------|------|
+| Pet Shop Website | Website bán thú cưng theo mô hình MVC | PHP, MySQL |
+| Laravel CRUD | Quản lý sản phẩm | Laravel |
+| Auth System | Đăng nhập & phân quyền | Laravel, MySQL |
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+---
+
+📫 Contact: yourmail@gmail.com
