@@ -8,8 +8,8 @@
 ## 🚀 Tech Stack
 - ⚙️ Backend: PHP, Laravel
 - 🗄 Database: MySQL
-- 🌐 Frontend basic: HTML, CSS, Bootstrap
-- 🔧 Tools: Git, GitHub, VSCode, Postman
+- 🌐 Frontend basic: HTML, CSS, Bootstrap, tailwind
+- 🔧 Tools: Git, GitHub, VSCode
 
 ---
 
@@ -17,16 +17,15 @@
 
 | Project | Description | Tech |
 |--------|------------|------|
-| Pet Shop Website | Website bán thú cưng theo mô hình MVC | PHP, MySQL |
-| Laravel CRUD | Quản lý sản phẩm | Laravel |
-| Auth System | Đăng nhập & phân quyền | Laravel, MySQL |
+| Website bán thú cưng theo mô hình MVC | PHP, MySQL |
+| Website quản lí tour du lịch | Quản lý tour du lịch | PHP, MySQL |
 
 ---
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=cuong2103&show_icons=true)
 
 ---
 
-📫 Contact: yourmail@gmail.com
+📫 Contact: dangcuong2103@gmail.com
