@@ -17,8 +17,8 @@
 
 | Project | Description | Tech |
 |--------|------------|------|
-| Website bán thú cưng theo mô hình MVC | PHP, MySQL |
-| Website quản lí tour du lịch | Quản lý tour du lịch | PHP, MySQL |
+| Pet Shop Website | Website bán thú cưng theo mô hình MVC | PHP, MySQL |
+| Website quản lí tour du lịch | Quản lý tour du lịch | PHP, js, MySQL |
 
 ---
 
